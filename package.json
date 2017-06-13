@@ -1,0 +1,17 @@
+{
+  "name": "parser-microservice",
+  "version": "1.0.0",
+  "description": "A small Api based microservice to tell the user about the public ip address, OS and language used in the broswer.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kundan Ranjan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.3",
+    "express-useragent": "^1.0.7",
+    "express": "3.10.10",
+    "body-parser":"3.10.10"
+  }
+}
