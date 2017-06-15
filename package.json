@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A small Api based microservice to tell the user about the public ip address, OS and language used in the broswer.",
   "main": "app.js",
+  "engines":{
+    "node":"6.9.4",
+    "npm":"3.10.10"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
