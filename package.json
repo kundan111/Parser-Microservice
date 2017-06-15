@@ -8,7 +8,7 @@
     "npm":"3.10.10"
   },
   "scripts": {
-    "test": "node app.js"
+    "test": "node ./bin/www"
   },
   "author": "Kundan Ranjan",
   "license": "ISC",
