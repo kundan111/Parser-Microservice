@@ -34,6 +34,6 @@ res.json({"IP Address": ipaddress,"Language": language[0],"OS": software.os,"Bro
 //listening to port
 app.listen("3000",function(){
 
-  console.log("connected to port 3000!");
+  console.log("connected to the port 3000!");
 
 })
